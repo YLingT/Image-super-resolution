@@ -52,6 +52,8 @@ Get PSNR = 27.6794
 |   Original lr image  |  Upscale x3  |
 |   :---:  |   :---:   |
 |![04.png](https://github.com/YLingT/Image-super-resolution/blob/main/img/04.png)|![04_pred.png](https://github.com/YLingT/Image-super-resolution/blob/main/img/04_pred.png)|
+|![11.png](https://github.com/YLingT/Image-super-resolution/blob/main/img/11.png)|![11_pred.png](https://github.com/YLingT/Image-super-resolution/blob/main/img/11_pred.png)|
+|![12.png](https://github.com/YLingT/Image-super-resolution/blob/main/img/12.png)|![12_pred.png](https://github.com/YLingT/Image-super-resolution/blob/main/img/12_pred.png)|
 
 ### 5.  Reference
 [a-PyTorch-Tutorial-to-Super-Resolution](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution)
