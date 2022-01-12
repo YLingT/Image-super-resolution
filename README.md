@@ -51,7 +51,7 @@ python eval_x3.py
 Get PSNR = 27.6794
 |   Original lr image  |  Upscale x3  |
 |   :---:  |   :---:   |
-|(https://github.com/YLingT/Image-super-resolution/blob/main/img/04.png)|(https://github.com/YLingT/Image-super-resolution/blob/main/img/04_pred.png)|
+|[04.png](https://github.com/YLingT/Image-super-resolution/blob/main/img/04.png)|[04_pred.png](https://github.com/YLingT/Image-super-resolution/blob/main/img/04_pred.png)|
 
 ### 5.  Reference
 [a-PyTorch-Tutorial-to-Super-Resolution](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution)
