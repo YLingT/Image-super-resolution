@@ -12,7 +12,7 @@ opencv-python                4.5.4.60
 ```
 
 ## Dataset 
-There are 291 high resolution images for training and 14 low resolution images for testing.
+There are 291 high resolution images for training and 14 low resolution images for testing, unscale factor=3.
 
 ## Code 
 ### 0. Download Project
@@ -50,7 +50,8 @@ python eval_x3.py
 ### 4.  Result analysis
 Get PSNR = 27.6794
 
-
+### 5.  Reference
+[a-PyTorch-Tutorial-to-Super-Resolution](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution)
 
 
 
