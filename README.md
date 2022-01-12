@@ -31,6 +31,7 @@ Image-super-resolution
 |── create_data_lists.py
 |── dataset.py
 |── models.py
+|── utils.py
 |── create_data_lists.py
 |── train_srresnet.py
 |── eval_x3.py
